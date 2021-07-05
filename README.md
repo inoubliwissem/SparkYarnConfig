@@ -1,4 +1,4 @@
-# Configure pache Spark on Top of a YARN Cluster manager
+# Configure apache Spark on Top of a YARN Cluster manager
 ![alt text](spark.png "apache spark")
 
 This guide present how we can install and configure Apache Spark on cluster of machines using YARN cluster manager.  Firstly, an overview about apache spark will be presented in order to understand the main features of this software, and global architecture will be presented.
