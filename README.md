@@ -89,3 +89,11 @@ Access the History Server by navigating to http://master:18080 in a web browser:
 ![alt text](history.png "apache spark history")
 ## Memory Management in Spark
 ###TBA
+
+
+references:
+
+https://www.linode.com/docs/guides/install-configure-run-spark-on-top-of-hadoop-yarn-cluster/
+https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
+https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm
+https://data-flair.training/blogs/apache-spark-hadoop-compatibility/
