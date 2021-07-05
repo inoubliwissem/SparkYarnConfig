@@ -87,3 +87,5 @@ $SPARK_HOME/sbin/start-history-server.sh
 ```
 Access the History Server by navigating to http://master:18080 in a web browser:
 ![alt text](history.png "apache spark history")
+##Memory Management in Spark
+TBA
